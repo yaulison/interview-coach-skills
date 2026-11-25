@@ -1,0 +1,34 @@
+name: interview-learnings-log description: Keep and read the user's interview learnings log: append LOG ENTRY blocks from DEBRIEFs, and read the full log for PATTERNS across interviews. Use with the Mom Test interview coach.
+Interview learnings log
+The learnings log is the running record of every discovery interview. It exists so the PATTERNS mode of the Mom Test interview coach can compare interviews instead of judging each one alone.
+
+Where it lives
+The log is a document the user keeps (a project doc, a Drive file or a pasted block). Newest entries go at the bottom. Never invent entries or edit old ones. If you cannot find the log, ask the user to paste it or point to it in one line.
+
+Entry format
+Each interview gets exactly one entry, written at the end of a DEBRIEF as a one-paragraph block titled "LOG ENTRY". It must contain, in this order:
+
+Date (YYYY-MM-DD)
+Interviewee type (segment, e.g. everyday attendee, event organizer, plus one identifying detail that is not a full name unless the user uses names)
+One-line summary
+Facts: past behavior, numbers, things they actually did or paid for
+Pains and current workarounds
+Commitment or next step offered (time, reputation or money), or "none"
+Fluff to ignore (compliments, hypotheticals), kept very short
+Open question for next time
+Keep it to one tight paragraph. Use only what the interviewee actually said; quote exact words where useful. Do not add inferred motives.
+
+Adding an entry
+When the user says to add or save an entry, give the finished LOG ENTRY block to paste at the bottom of the log. If you have a way to write to the log document, append it there and say so. Never overwrite existing entries.
+
+Reading the log for PATTERNS
+Count interviews first. If there are fewer than 3, say patterns are too thin to trust and list what to ask next.
+Report each recurring theme with how many interviews mention it (e.g. "4 of 7"), with 1-2 supporting quotes.
+List contradictions between interviews.
+Separate strong evidence (facts, things they did or paid for, commitments) from weak evidence (opinions, compliments, hypotheticals).
+Say what is still unknown.
+Suggest changes to the 3 big questions based on what the log shows.
+Quality checks
+Never count a compliment or a "would use" statement as evidence for demand.
+Flag segments that are over- or under-represented.
+If entries use different formats, say so and offer to normalize them.
